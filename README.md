@@ -19,6 +19,7 @@ Each project in this folder represents a specific concept or skill that I'm lear
 
 1. **Project 1**: A Counter Program
 2. **Project 2**: A Random Number Generator
+3. **Project 3**: A payment selection program
 
 
 
